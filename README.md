@@ -8,4 +8,32 @@ You will find attached :
 
 The main new topics, technologies and concepts learned and used for each project are the following :
 
-Project 2 - HemeBiotech :
+Project 2 - SmartCity :
+- Data Analysis - Univariate
+
+Project 3 - SantePubliqueFrance :
+- Data Analysis - Multivariate
+
+Project 4 - PretADepenser :
+- CreditScoring - Classification
+
+Project 5 - Olist :
+- Clustering
+
+Project 6 - AvisRestau :
+- Clustering
+
+Project 7 - AirParadis :
+- Deep Neural Network - NLP : Natural Langage Processing
+
+Project 8 - FutureVisionTransport :
+- Deep Neural Network - Computer Vision : Images Segmentation
+
+Project 9 - MyContent :
+- Recommander System
+
+Project 10 - FlyMe :
+- ChatBot
+
+Project 11 - FashionInsta :
+- Project definition
