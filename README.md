@@ -6,12 +6,13 @@ You will find attached :
 - a presentation of the path and the projects
 - the achievement certificates for all courses done during the path
 
-The main new topics, technologies and concepts learned and used for each project are the following :
+The main topics, datasets, python librairies, technologies and concepts learned and used for each project are the following :
 
 Project 2 - SmartCity :
 - Data Analysis - Univariate
 - Dataset : Opendata Paris Trees
-- Python Librairies : Pandas / Numpy / Matplotlib / Seaborn / Word Cloud / Jupyter Notebooks / Anaconda distribution / Virtual Environments
+- Python Librairies : Pandas / Numpy / Matplotlib / Seaborn / Word Cloud
+- Jupyter Notebooks / Anaconda distribution / Virtual Environments
 
 Project 3 - SantePubliqueFrance :
 - Data Analysis - Multivariate
@@ -34,7 +35,7 @@ Project 6 - AvisRestau :
 - Python Librairies : Spacy / Gensim for Text processing / OpenCV for Pictures / PyLDAvis
 
 Project 7 - AirParadis :
-- Deep Neural Network - NLP : Natural Langage Processing
+- Deep Neural Network - Natural Langage Processing (NLP) : Sentiment Analysis
 - Dataset : Kaggle Sentiment140 dataset with 1.6 million tweets
 - Python Librairies : Tensorflow / Keras / Transformers
 - Azure : Azure Machine Learning
@@ -46,14 +47,14 @@ Project 8 - FutureVisionTransport :
 - Deployment with Flask
 
 Project 9 - MyContent :
-- Recommander System
+- Recommender System
 - Dataset : Globo.com
 - Python Librairies : Implicit
 - Azure : Azure Function Serverless
 - Deployment with Azure Function Serverless
  
 Project 10 - FlyMe :
-- ChatBot
+- Chat Bot
 - Dataset : Microsoft Frames Dataset
 - Python Librairies : Pytest
 - Azure : Microsoft SDK Bot Framework / LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
