@@ -35,8 +35,8 @@ Project 5 - Olist :
 - Main Topic : Unsupervised Models - Clustering - Customers Segmentation
 - Dataset : Olist
 - New Python Packages : YellowBrick / Pycodestyle Magic
-- New Concepts : Python Clean Code / Models Stability Analysis
-- Unsupervised Models : KMeans / KModes / RFM (Recency - Frequency - Monetary)
+- New Concepts : Clustering Models / Python Clean Code / Models Stability Analysis
+- Unsupervised Models : KMeans / KModes / RFM (Recency - Frequency - Monetary) / DBSCAN / Hierarchical Clustering
 
 Project 6 - Avis Restau :
 - Main Topic : Structured Data Processing for Texts and Pictures - Customers Unsatisfied Topics Detection and Pictures Labeling
@@ -44,7 +44,7 @@ Project 6 - Avis Restau :
 - New Python Packages : SpaCy / Gensim for Texts / OpenCV for Pictures / PyLDAvis for Visualization
 - New Concepts for Texts : 
    + Pre Processing : Tokenization / Stop Words / Lemmatization / POS Tagging
-   + Dimensions Reduction : Bag-Of-Words and TF-IDF Representation
+   + Dimensions Reduction : Bag-Of-Words Representation / TF-IDF Representation
    + Topics Modeling : LDA (Latent Dirichlet Allocation) / NMF (Non negative Matrix Factorization)
    + High Dimensions Data Visualization
 - New Concepts for Pictures : 
@@ -57,14 +57,14 @@ Project 7 - Air Paradis :
 - Dataset : Kaggle Sentiment140 dataset with 1.6 million tweets
 - New Python Packages : Tensorflow / Keras / Transformers (HuggingFace)
 - New Concepts : 
-   + Words Embeddings : GloVe / FastText / 
+   + Words Embeddings : GloVe / FastText
    + Deep Neural Networks : RNN (Recurrent Neural Networks) / LSTM (Long Short Term Memory) / GRU (Gated Recurrent Units)
    + Transformers : BERT Model
 - Azure : Azure Machine Learning
 - Deployment : API with Azure
 
 Project 8 - Future Vision Transport :
-- Main Topic : Deep Neural Networks - Computer Vision : Pictures Segmentation
+- Main Topic : Deep Neural Networks - Computer Vision - Pictures Segmentation
 - Dataset : Cityscape
 - New Python Packages : Segmentation-models / Albumentation / Flask
 - New Concepts : 
@@ -73,6 +73,7 @@ Project 8 - Future Vision Transport :
    + Dedicated Loss Functions for Computer Vision (ex : Dice Loss)
    + Data Generator
    + Data Augmentation
+   + Deep Neural Networks : CNN (Convolutional Neural Networks)
    + Segmentation Models (Backbones : VGGNet / ResNet / EfficientNet, Architectures : Unet / FPN (Features Pyramid Network) / Linknet)
 - Deployment : API REST with Flask framework
 
@@ -83,19 +84,19 @@ Project 9 - My Content :
 - New Concepts : 
    + Recommender Systems : Content-based methods / Collaborative filtering methods / Hybrid methods
    + Explicit / Implicit ratings
-   + Integration of an IA model in an existing 
+   + Integration of an IA model in an existing application
 - Azure : Azure Function Serverless
 - Deployment : Integration with an Android mobile application (JS + Node) using Azure Function Serverless
  
 Project 10 - Fly Me :
 - Main Topic : Chatbot
 - Dataset : Microsoft Frames Dataset
-- New Python Packages : Pytest
+- New Python Packages : Pytest / Microsoft SDK Bot Framework
 - New Concepts :
    + Python Tests
    + Chatbots
    + Model Performances Monitoring 
-- Azure : Microsoft SDK Bot Framework / LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
+- Azure : LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
 - Deployment : Automated deployment using Azure and GitHub Actions
 
 Project 11 - Fashion Insta :
