@@ -41,7 +41,7 @@ Project 5 - Olist :
 Project 6 - Avis Restau :
 - Structured Data Processing for Texts and Pictures - Customers Unsatisfied Topics Detection and Pictures Labeling
 - Dataset : Yelp
-- New Python Librairies : Spacy / Gensim for Texts / OpenCV for Pictures / PyLDAvis
+- New Python Librairies : SpaCy / Gensim for Texts / OpenCV for Pictures / PyLDAvis for Visualization
 - New Concepts for Texts : 
    + Pre Processing : Tokenization / Stop Words / Lemmatization / POS Tagging
    + Dimensions Reduction : Bag-Of-Words and TF-IDF Representation
@@ -55,28 +55,33 @@ Project 6 - Avis Restau :
 Project 7 - Air Paradis :
 - Deep Neural Network - Natural Langage Processing (NLP) : Sentiment Analysis
 - Dataset : Kaggle Sentiment140 dataset with 1.6 million tweets
-- New Python Librairies : Tensorflow / Keras / Transformers
+- New Python Librairies : Tensorflow / Keras / Transformers (HuggingFace)
+- New Concepts : 
+   + Words Embeddings : GloVe / FastText / 
+   + Deep Neural Networks : RNN (Recurrent Neural Networks) / LSTM (Long Short Term Memory) / GRU (Gated Recurrent Units)
+   + Transformers : BERT Model
 - Azure : Azure Machine Learning
+- Deployment : Azure
 
 Project 8 - Future Vision Transport :
 - Deep Neural Network - Computer Vision : Pictures Segmentation
 - Dataset : Cityscape
 - New Python Librairies : Segmentation-models / Albumentation / Flask
-- Deployment with Flask
+- Deployment : Flask
 
 Project 9 - My Content :
 - Recommender System
 - Dataset : Globo.com
 - New Python Librairies : Implicit
 - Azure : Azure Function Serverless
-- Deployment with Azure Function Serverless
+- Deployment : Azure Function Serverless
  
 Project 10 - Fly Me :
 - Chat Bot
 - Dataset : Microsoft Frames Dataset
 - New Python Librairies : Pytest
 - Azure : Microsoft SDK Bot Framework / LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
-- Deployment with Azure and GitHub Action
+- Deployment : Azure and GitHub Actions
 
 
 Project 11 - Fashion Insta :
