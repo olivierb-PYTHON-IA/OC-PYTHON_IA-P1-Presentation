@@ -27,9 +27,9 @@ Project 4 - PretADepenser :
 - New Python Librairies : SciKit Learn / Imblearn / SHAP
 - Concepts : Imbalanced Data / Classification / Feature Engineering / Pipelines / Model Selection / Hyper Parameters Optimization / Performances Evaluation / Model Interpretation
 - Models : 
-+ Linear models : Logistic Regression / SGD Classifier
-+ Non linear models : SVC with different kernels 
-+ Ensemble models : Random Forest Classifier / Adaboost / HistGradientBoosting 
+   + Linear models : Logistic Regression / SGD Classifier
+   + Non linear models : SVC with different kernels 
+   + Ensemble models : Random Forest Classifier / Adaboost / HistGradientBoosting 
 
 Project 5 - Olist :
 - Clustering
