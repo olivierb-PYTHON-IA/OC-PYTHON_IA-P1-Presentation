@@ -53,7 +53,7 @@ Project 6 - Avis Restau :
    + High Dimensions Data Vizualisation
 
 Project 7 - Air Paradis :
-- Deep Neural Network - Natural Langage Processing (NLP) : Sentiment Analysis
+- Deep Neural Networks - Natural Langage Processing (NLP) : Sentiment Analysis
 - Dataset : Kaggle Sentiment140 dataset with 1.6 million tweets
 - New Python Librairies : Tensorflow / Keras / Transformers (HuggingFace)
 - New Concepts : 
@@ -64,11 +64,11 @@ Project 7 - Air Paradis :
 - Deployment : API with Azure
 
 Project 8 - Future Vision Transport :
-- Deep Neural Network - Computer Vision : Pictures Segmentation
+- Deep Neural Networks - Computer Vision : Pictures Segmentation
 - Dataset : Cityscape
 - New Python Librairies : Segmentation-models / Albumentation / Flask
 - New Concepts : 
-   + Computer Vision
+   + Computer Vision : Pictures Classification / Objects Detection / Pictures Segmentation
    + Dedicated Metrics for Computer Vision (ex : Mean IoU Score)
    + Dedicated Loss Functions for Computer Vision (ex : Dice Loss)
    + Data Generator
@@ -77,11 +77,15 @@ Project 8 - Future Vision Transport :
 - Deployment : API REST with Flask framework
 
 Project 9 - My Content :
-- Recommender System
+- Recommender Systems
 - Dataset : Globo.com
 - New Python Librairies : Implicit
+- New Concepts : 
+   + Recommender Systems : Content-based methods / Collaborative filtering methods / Hybrid methods
+   + Explicit / Implicit ratings
+   + Integration of an IA model in an existing 
 - Azure : Azure Function Serverless
-- Deployment : Azure Function Serverless
+- Deployment : Integration with an Android mobile application (JS + Node) with Azure Function Serverless
  
 Project 10 - Fly Me :
 - Chat Bot
