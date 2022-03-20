@@ -39,7 +39,7 @@ Project 5 - Olist :
 - Unsupervised Models : KMeans / KModes / RFM (Recency - Frequency - Monetary)
 
 Project 6 - AvisRestau :
-- Structured Data Processing for Texts and Pictures - Customers Unsatisfied Topics Detection / Pictures Classification
+- Structured Data Processing for Texts and Pictures - Customers Unsatisfied Topics Detection and Pictures Classification
 - Dataset : Yelp
 - New Python Librairies : Spacy / Gensim for Texts / OpenCV for Pictures / PyLDAvis
 - Concepts for Texts : 
@@ -48,7 +48,8 @@ Project 6 - AvisRestau :
    + Topic Modeling : LDA (Latent Dirichlet Allocation) / NMF (Non negative Matrix Factorization)
    + Vizualisation
 - Concepts for Pictures : 
-
+   + Features Extraction : SIFT algorithm / CNN + Transfer Learning
+   + Dimension Reduction : PCA / TSNE
 
 Project 7 - AirParadis :
 - Deep Neural Network - Natural Langage Processing (NLP) : Sentiment Analysis
