@@ -61,13 +61,20 @@ Project 7 - Air Paradis :
    + Deep Neural Networks : RNN (Recurrent Neural Networks) / LSTM (Long Short Term Memory) / GRU (Gated Recurrent Units)
    + Transformers : BERT Model
 - Azure : Azure Machine Learning
-- Deployment : Azure
+- Deployment : API with Azure
 
 Project 8 - Future Vision Transport :
 - Deep Neural Network - Computer Vision : Pictures Segmentation
 - Dataset : Cityscape
 - New Python Librairies : Segmentation-models / Albumentation / Flask
-- Deployment : Flask
+- New Concepts : 
+   + Computer Vision
+   + Dedicated Metrics for Computer Vision (ex : Mean IoU Score)
+   + Dedicated Loss Functions for Computer Vision (ex : Dice Loss)
+   + Data Generator
+   + Data Augmentation
+   + Segmentation Models (Backbones : VGGNet / ResNet / EfficientNet, Architectures : Unet / FPN (Features Pyramid Network) / Linknet)
+- Deployment : API REST with Flask framework
 
 Project 9 - My Content :
 - Recommender System
