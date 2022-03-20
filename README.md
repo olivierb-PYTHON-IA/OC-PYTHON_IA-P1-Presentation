@@ -25,6 +25,8 @@ Project 4 - PretADepenser :
 - Credit Scoring Model - Classification
 - Dataset : Kaggle Home Credit Default Risk
 - New Python Librairies : SciKit Learn / Imblearn / SHAP
+- Concepts : Classification / Feature Engineering / Model Selection / Hyper Parameters Optimization / Performances Evaluation / Models Interpretation
+- Models : Logistic Regressiob / SGD Classifier / SVC with different kernels / Random Forest Classifier / Adaboost / HistGradientBoosting 
 
 Project 5 - Olist :
 - Clustering
