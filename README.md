@@ -13,11 +13,13 @@ Project 2 - SmartCity :
 - Dataset : Opendata Paris Trees
 - New Python Librairies : Pandas / Numpy / Matplotlib / Seaborn / Word Cloud
 - Jupyter Notebooks / Anaconda distribution / Virtual Environments
+- Concepts : Data Cleaning / Data Analysis / Data Visualization
 
 Project 3 - SantePubliqueFrance :
 - Data Analysis - Multivariate
 - Dataset : Open Food Facts
 - New Python Librairies : Plotly / SciPy / Widgets / Voila!
+- Concepts : Variance Analysis (ANOVA) / Principal Component Analysis (PCA) / Hypothesis Tests
 
 Project 4 - PretADepenser :
 - Credit Scoring Model - Classification
