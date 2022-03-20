@@ -11,8 +11,8 @@ The main topics, datasets, python librairies, technologies and concepts learned 
 Project 2 - SmartCity :
 - Data Analysis - Univariate
 - Dataset : Opendata Paris Trees
-- New Python Librairies : Pandas / Numpy / Matplotlib / Seaborn / Word Cloud
-- Jupyter Notebooks / Anaconda distribution / Virtual Environments
+- New Python Librairies : Pandas / Numpy / Matplotlib / Seaborn / WordCloud
+- Jupyter Notebooks / Anaconda Distribution / Virtual Environments
 - Concepts : Data Cleaning / Data Analysis / Data Visualization
 
 Project 3 - SantePubliqueFrance :
@@ -25,8 +25,11 @@ Project 4 - PretADepenser :
 - Credit Scoring Model - Classification
 - Dataset : Kaggle Home Credit Default Risk
 - New Python Librairies : SciKit Learn / Imblearn / SHAP
-- Concepts : Classification / Feature Engineering / Model Selection / Hyper Parameters Optimization / Performances Evaluation / Models Interpretation
-- Models : Logistic Regressiob / SGD Classifier / SVC with different kernels / Random Forest Classifier / Adaboost / HistGradientBoosting 
+- Concepts : Imbalanced Data / Classification / Feature Engineering / Pipelines / Model Selection / Hyper Parameters Optimization / Performances Evaluation / Model Interpretation
+- Models : 
+- Linear models : Logistic Regression / SGD Classifier
+- Non linear models : SVC with different kernels 
+- Enebme models : Random Forest Classifier / Adaboost / HistGradientBoosting 
 
 Project 5 - Olist :
 - Clustering
