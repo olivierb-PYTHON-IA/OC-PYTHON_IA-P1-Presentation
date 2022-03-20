@@ -98,6 +98,10 @@ Project 10 - Fly Me :
 - Azure : Microsoft SDK Bot Framework / LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
 - Deployment : Automated deployement using Azure and GitHub Actions
 
-
 Project 11 - Fashion Insta :
-- Project definition
+- AI Project definition
+- New Concepts :
+   + Agile / Scrum methodologies (User Stories / Backlog / Sprints)
+   + Ressources identification (Human, Technical and Financial Ressources)
+   + Risks identification and mitigation
+   + Legal and ethical issues
