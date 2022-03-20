@@ -85,14 +85,18 @@ Project 9 - My Content :
    + Explicit / Implicit ratings
    + Integration of an IA model in an existing 
 - Azure : Azure Function Serverless
-- Deployment : Integration with an Android mobile application (JS + Node) with Azure Function Serverless
+- Deployment : Integration with an Android mobile application (JS + Node) using Azure Function Serverless
  
 Project 10 - Fly Me :
-- Chat Bot
+- ChatBot
 - Dataset : Microsoft Frames Dataset
 - New Python Librairies : Pytest
+- New Concepts :
+   + Python Tests
+   + ChatBots
+   + Model Performances Monitoring 
 - Azure : Microsoft SDK Bot Framework / LUIS (Langage Understanding Intelligence Service) / Azure Applications Insights
-- Deployment : Azure and GitHub Actions
+- Deployment : Automated deployement using Azure and GitHub Actions
 
 
 Project 11 - Fashion Insta :
