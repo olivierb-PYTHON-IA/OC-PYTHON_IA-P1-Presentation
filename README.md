@@ -22,24 +22,33 @@ Project 3 - SantePubliqueFrance :
 - Concepts : Variance Analysis (ANOVA) / Principal Component Analysis (PCA) / Hypothesis Tests
 
 Project 4 - PretADepenser :
-- Credit Scoring Model - Classification
+- Classification - Credit Scoring Model 
 - Dataset : Kaggle Home Credit Default Risk
 - New Python Librairies : SciKit Learn / Imblearn / SHAP
 - Concepts : Imbalanced Data / Classification / Feature Engineering / Pipelines / Model Selection / Hyper Parameters Optimization / Performances Evaluation / Model Interpretation
-- Models : 
-   + Linear models : Logistic Regression / SGD Classifier
-   + Non linear models : SVC with different kernels 
+- Supervised Models : 
+   + Linear models : Logistic Regression / SGD Classifier (Stochastic Gradient Descent)
+   + Non linear models : SVC with different kernels (Support Vector Classifier) 
    + Ensemble models : Random Forest Classifier / Adaboost / HistGradientBoosting 
 
 Project 5 - Olist :
-- Clustering
+- Clustering - Customers Segmentation
 - Dataset : Olist
 - New Python Librairies : YellowBrick / Pycodestyle Magic
+- Concepts : Python Clean Code / Models Stability Analysis
+- Unsupervised Models : KMeans / KModes / RFM (Recency - Frequency - Monetary)
 
 Project 6 - AvisRestau :
-- Structurd Data pre processing for Text and Pictures
+- Structured Data Processing for Texts and Pictures - Customers Unsatisfied Topics Detection / Pictures Classification
 - Dataset : Yelp
-- New Python Librairies : Spacy / Gensim for Text processing / OpenCV for Pictures / PyLDAvis
+- New Python Librairies : Spacy / Gensim for Texts / OpenCV for Pictures / PyLDAvis
+- Concepts for Texts : 
+   + Pre Processing : Tokenization / Stop Words / Lemmatization / POS Tagging
+   + Dimensions Reduction : Bag-Of-Words and TF-IDF Representation
+   + Topic Modeling : LDA (Latent Dirichlet Allocation) / NMF (Non negative Matrix Factorization)
+   + Vizualisation
+- Concepts for Pictures : 
+
 
 Project 7 - AirParadis :
 - Deep Neural Network - Natural Langage Processing (NLP) : Sentiment Analysis
