@@ -1,6 +1,7 @@
 # Welcome to this Python and AI projects portfolio
 
 This GitHub repository contains the projects done to achieve the OpenClassrooms path in order to obtain the Artificial Intelligence engineer certificate (Ingénieur IA).
+
 The formation is in partnership with Microsoft and so about half of the training course is done using Microsoft Cloud Azure for Machine Learning and Artificial Intelligence especially for Deep Neural Networks and models deployment / monitoring.
 
 You will find attached :
